@@ -15,10 +15,10 @@ Once verified, open the Cypress runner with `npx cypress open`
 
 Given the following acceptance criteria and exploring http://automationpractice.com/index.php, create test cases (BDD preferred)
 
-As a user, I want to craete an account
-As a user, I want to login with a created account
-As a user, I want to use the search bar to find available items
-As a user, I would like to purchase an item from my cart
+As a user, I want to craete an account  
+As a user, I want to login with a created account  
+As a user, I want to use the search bar to find available items  
+As a user, I would like to purchase an item from my cart  
 
 ### Coding Exercise 1 - Auth
 
